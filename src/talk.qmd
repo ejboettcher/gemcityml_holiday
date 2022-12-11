@@ -1,0 +1,277 @@
+---
+title: "GANs Fun"
+subtitle: "Gem City Tech ML/AI Meetup"
+date: "Dec. 15 2022"
+author: "Presented by Evelyn J. Boettcher, DiDacTex, LLC"
+title-slide-attributes:
+    data-background-image: 'img/logos/gem_cityML_slide.png'
+    data-background-size: "100% 100% "
+    data-background-position: "0% "
+    data-background-opacity: "0.95"
+format:
+    revealjs:
+        incremental: false
+fig-cap-location: margin
+
+---
+
+
+## Welcome to Gem City Tech ML/AI
+
+:::{.columns}
+::::{.column width=72%}
+
+We meet every third Thursday and are part of Gem City Tech meetup group
+
+<br>
+
+GemCity TECH’s mission is to grow the local industry and the community by providing a centralized destination for
+technical training, workshops and providing a forum for collaborating.
+
+<br>
+
+Currently, support eight special interest groups from a variety of technical disciplines.
+::::
+::::{.column width=26%}
+![](./img/logos/qr-code.png)
+::::
+:::
+
+- Dayton Web Developers
+- Dayton Dynamic Languages
+- Dayton .net Developers
+- Gem City Games Developments
+- New to Tech
+- Frameworks
+- **Machine Learning / Artificial Intelligence (ML/AI)**
+- Code for Dayton
+
+---
+
+## Big Thanks to our Sponsors
+
+<br>
+<br>
+
+:::{.columns}
+::::{.column width=24%}
+
+#### Gem City Tech
+![](./img/logos/GCTLogo.png)
+
+::::
+::::{.column width=24%}
+
+#### The Hub
+ ![](./img/logos/The-Hub-Logo-PNC.jpg)
+::::
+::::{.column width=24%}
+#### Technology First
+ ![](./img/logos/tech_first_logo.jpg)
+
+::::
+::::{.column width=24%}
+#### Human IT
+ ![](./img/logos/HumanIT-Logo.png)
+
+::::
+:::
+
+
+* GemCity TECH: [GemCity.Tech](https://Gemcity.tech)
+* The Innovation Hub: [thehubdayton.com](https://www.thehubdayton.com/)
+* Technology First: [www.technologyfirst.org](https://www.technologyfirst.org/)
+* Human IT: [https://humanit.us/](https://humanit.us/)
+
+---
+
+### Calendar Events
+
+* Gem City Tech ML/AI: Third Thursday at 6.
+* The GemCity TECH Meetup calendar of upcoming events: [www.meetup.com/gem-city-tech](https://www.meetup.com/gem-city-tech/events/calendar/)
+* [The Technology First events calendar](https://www.technologyfirst.org/Technology-First-Events?EventViewMode=1&EventListViewMode=2&SelectedDate=8/20/2022&CalendarViewType=1)
+
+---
+
+## AI Image Generation Fun
+
+AI Images are pretty amazing but I still think you need a human.
+
+![Human vs maching](./img/logos/human_machine.png)
+
+
+---
+
+## AI Gen a comparison
+
+Going to use the key work
+"Pull Tab Christmas Tree" and see how they images differ.
+
+### DALL-E
+
+Dall-E give you four images for each text phrase you give it.
+
+* Online
+* Free (up to a limit)
+* 1 minute
+* 4 outputs
+
+![tree](img/pulltabtree.png)
+
+
+---
+
+### Craiyon
+
+* Free www.craiyon.com.
+* On-Line
+* Takes about 3 minutes
+* 9 outputs
+
+![tree](img/craiyon.png)
+
+---
+
+### Stable Diffusion- Huggingface.io
+
+* Online
+* Free
+* About 1 min
+* 4 images
+* No PUll tabs
+
+![tree](img/stable_diffusion2.png)
+
+---
+
+
+### Midjourney
+
+* Online-Discord
+* Had a free trial
+* 4 images in 1 minute
+
+![tree](img/midjourny_2.png)
+
+![tree](img/midjourny_lg.png)
+
+
+
+---
+
+### Deep AI
+
+deepai.org
+
+* Online
+* 1 image 1 minute
+
+![tree](img/deepai_tree.jpeg)
+
+
+---
+
+### Canva.com
+
+* Online
+* Fast and lots of choices
+![tree](img/canva.png)
+
+---
+
+### Night Cafe
+
+* online
+* Fast
+* one image
+
+![tree](img/night_cafe.webp)
+
+
+---
+
+### Fotor
+
+* Online
+* Slow
+* Get one free without signing in.
+
+![tree](img/Fotor_AI.png)
+
+---
+
+### Thoughts
+
+I liked Fotor the best for the image it created.
+
+But DAL-E was the only one that had a pull tab
+
+![tree](img/Fotor_AI.png)
+
+
+---
+
+### Winner of Dayton AI
+
+December's Machine Learning Group will be loosely based on GANs. GANs (generative adversarial networks) are a class of machine learning frameworks where neural networks (NN) compete in a zero sum game.
+
+In this spirit, I am having a competition of AI generated Dayton Themed Art.
+
+Break down:
+
+* Generative Model: Your choice
+* Discriminator Model: Your Peers
+* Training set: Your rich knowledge of Dayton
+* Output: Dayton Themed GAN's / AI generated Art
+* Prizes: Bragging rights! and choice of a frame-able print or T-shirt of the BEST Dayton themed art.
+
+### Voter Turnout
+Voter turnout was low, many people had two votes (likes) and no one had three.
+
+* Need better voter turnout or better cheaters.
+
+---
+
+
+If same person had two entries that were winners, I chose one.
+I like the results, because it does how the diverseness of Dayton.
+
+<br>
+<br>
+
+
+:::{.columns}
+::::{.column width=33%}
+
+#### Dave
+![](./img/winners/dayton_dave.png)
+
+::::
+::::{.column width=33%}
+
+#### Allen
+ ![](./img/winners/lego_dayton.png)
+::::
+::::{.column width=33%}
+#### mthurston
+ ![](./img/winners/scrub_dragon_guarding_a_nest_of_baseballs.jpeg)
+::::
+
+:::
+
+---
+
+## Talking points
+
+* Did you use a text-image interpreter
+* What tricks did you use
+* Did you use a seed?
+* Did you use your own?
+
+
+---
+
+### Thank you
+
+* Next month Ideas
+*  CoPilot for learning?
